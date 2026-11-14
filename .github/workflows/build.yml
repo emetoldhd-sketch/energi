@@ -1,0 +1,3 @@
+max-energy: 5        # energi maksimal dan energi awal
+energy-cost: 1       # energi terpakai tiap pakai skill
+energy-per-kill: 1   # energi didapat tiap bunuh player
